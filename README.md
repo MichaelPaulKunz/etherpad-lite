@@ -56,7 +56,7 @@ Install the latest Node.js LTS per [official install instructions](https://githu
 ```sh
 git clone --branch master https://github.com/ether/etherpad-lite.git &&
 cd etherpad-lite &&
-src/bin/run.sh
+bin/run.sh
 ```
 
 #### Manual install
